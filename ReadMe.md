@@ -102,7 +102,7 @@ My interests span from developing ML models and exploring deep learning to deplo
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/Lishika3009">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
